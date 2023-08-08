@@ -7,22 +7,20 @@
 
 # 📊 GitHub Stats:
 
-<div style = display: flex>
-<p>
-
+<div style="display: flex; justify-content: space-around">
+<div>
+  
 ![](https://github-contributor-stats.vercel.app/api?username=EduardoDominguez1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
-</p>
-<p>
+<div>
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoDominguez1&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</p>
 </div>
 
 <div align="center">
   
-### 📝
+### ~~~~📝~~~~
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 </div>
