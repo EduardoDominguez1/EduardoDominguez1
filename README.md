@@ -18,12 +18,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=EduardoDominguez1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 
-<div align="center">
-  
-# .
-
-</div>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=EduardoDominguez1&icon=3&color=11)](https://visitcount.itsvg.in)
 
