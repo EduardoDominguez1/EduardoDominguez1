@@ -20,7 +20,7 @@
 
 <div align="center">
   
-### ~~~~📝~~~~
+# Little inspiration📝👀
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 </div>
